@@ -1,2 +1,7 @@
 # Exlanale-AI
-Dice
+DiCE
+LIME
+SHAP
+RuleFit
+ICE
+PDP
