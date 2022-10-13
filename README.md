@@ -1,4 +1,4 @@
-# Exlanale-AI
+# Explanable-AI
 DiCE
 LIME
 SHAP
